@@ -22,13 +22,13 @@ Here are the technologies used in this project.
 
 ![Página Inicial](readme/pagina-inicial.png)
 
-### 2 - Ao acessar a segunda página,  clique "Continue" ou "Skip" para ir para a última.
+### 2 - Ao acessar a segunda página,  clique "Continue"  ou "Skip" para ir para a última.
 
-![Segunda Página](https://github.com/Jenyfferbastos/Projects-Compass-Uol/commit/99ecbfd2b56b98eb8d8b34484b22b77aa8dfc436#diff-15bb556c84785e2f9e17d560e5663451580a234762c123936a95824bcfe01eaa)
+![Segunda Página](readme/segunda-pagina.png)
 
 ### 3 - Na terceira página clique "Get started" para começar!
 
-![Post show](https://github.com/Jenyfferbastos/Projects-Compass-Uol/commit/99ecbfd2b56b98eb8d8b34484b22b77aa8dfc436#diff-d3d16ee6a885b1736a62381fcad6bcdd944d726b61e61f450f651ee7dcbe03c9)
+![Post show](readme/terceira-pagina.png)
 
 ### 4 - Use em seu desktop ou celular. Páginas responsivas!
 
