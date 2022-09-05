@@ -1,6 +1,6 @@
 ## Project Onboarding - Sprint 1
 
-Projeto front end de páginas responsivas que interagem por meio de botões next, skip e get started.
+Projeto front end de páginas responsivas que interagem por meio de botões next e skip.
 
 ## Technology 
 
